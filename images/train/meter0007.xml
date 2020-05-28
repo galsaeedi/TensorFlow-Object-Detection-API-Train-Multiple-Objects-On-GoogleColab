@@ -1,0 +1,26 @@
+<annotation>
+	<folder>training</folder>
+	<filename>meter0007.jpg</filename>
+	<path>C:\Users\ghada\OneDrive\Desktop\metersdetectors\training\meter0007.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2340</width>
+		<height>4160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>counter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>749</xmin>
+			<ymin>1409</ymin>
+			<xmax>1467</xmax>
+			<ymax>1664</ymax>
+		</bndbox>
+	</object>
+</annotation>

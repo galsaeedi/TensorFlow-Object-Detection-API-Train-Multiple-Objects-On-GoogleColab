@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>meter1201.jpg</filename>
+	<path>C:\Users\ghada\OneDrive\Desktop\metersdetectors\test\meter1201.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2340</width>
+		<height>4160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>counter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>804</xmin>
+			<ymin>1932</ymin>
+			<xmax>1472</xmax>
+			<ymax>2173</ymax>
+		</bndbox>
+	</object>
+</annotation>

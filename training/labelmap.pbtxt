@@ -1,0 +1,20 @@
+item {
+  id: 1
+  name: 'counter'
+}
+
+item {
+  id: 2
+  name: 'counter1'
+}
+
+item {
+  id: 3
+  name: 'counter2'
+}
+
+item {
+  id: 4
+  name: 'counter3'
+}
+
