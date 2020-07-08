@@ -1,7 +1,7 @@
 # training-data-python-scripts-for-tensorflow-object-detection-API
 <br>
 
-<h3 align="center">copied repository from [EdjeElectronics] (https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10). and added my own python script </h3>
+<h3 align="center">copied repository from [Tensorflow detector](https://github.com/tensorflow/models). and added my own python script </h3>
 My added scripts are: txt_to_csv.py and Object_detection_image.py
 
 </br>After gathering images just run the following script to convert txt labels files to csv:
